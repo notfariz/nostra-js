@@ -15,11 +15,3 @@ It displays products dynamically, allows filtering by tags, and includes a searc
 - Responsive design for mobile and desktop
 
 ---
-
-## 🧾 License
-
-This project is open-source and free to use for learning or personal projects.
-
-
-Let me know if you’d like to add badges, screenshots, or deployment instructions!
-Let me know if you’d like to add badges, screenshots, or deployment instructions!
